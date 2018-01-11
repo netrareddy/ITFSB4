@@ -8,11 +8,9 @@
 </head>
 <body>
 <center>
-<<<<<<< HEAD
+
 <h1>Welcome Netra C</h1>
-=======
-<h1>Welcome Netra P</h1>
->>>>>>> branch 'Branch-one' of https://github.com/netrareddy/ITFSB4.git
+
 
 </center>
 </body>
